@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Before we jump in, lets look at some useful pages to learn more about me:
+
+- [Directory of Web links](/documentation/online-links.md)
+
 <!--
 **sitecoremaster/sitecoremaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
