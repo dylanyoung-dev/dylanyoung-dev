@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋⚡⚡⚡
 
 Before we jump in, lets look at some useful pages to learn more about me:
 
