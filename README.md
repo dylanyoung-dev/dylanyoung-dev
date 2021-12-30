@@ -38,3 +38,6 @@ hi, i'm [Dylan Young](https://dylanyoung.dev/), a developer advocate at Sitecore
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dylanyoung-dev&show_icons=true&theme=gotham" alt="dylanyoung-dev" />
+
+### Helpful collection of Links
+- [Sitecore CDP Resources](./documentation/sitecore-cdp.md)
