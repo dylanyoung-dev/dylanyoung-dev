@@ -1,5 +1,7 @@
 ## Helpful Sitecore CDP Links
 
+[My CDP/Personalize Blog Content](https://dylanyoung.dev/insights/categories/sitecore-cdp-personalize/)
+
 Before I jump into the links, just wanted to update the audience, to let them know the focus of this list is development.
 
 - [CDP Integrations - Developer Portal](https://developers.sitecore.com/learn/integrations)
