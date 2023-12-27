@@ -1,7 +1,6 @@
 # Hello Friends <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=dylanyoung-dev/dylanyoung-dev)<br />
-
-i'm [Dylan Young](https://dylanyoung.dev/), a Developer Advocate at Sitecore. I focus on the Engagement Cloud products, which includes CDP, Personalize, Send/Moosend and Analytics, among many other focuses (including XP).  But I have a ton of passions as well, including Cloud Development, Docker and Javascript Frameworks.  All of this while coming from a Microsoft world where I've had 10+ years in .Net and C# development.  But I'm learning new things and sharing my journey.
+![](https://visitor-badge.glitch.me/badge?page_id=dylanyoung-dev/dylanyoung-dev)
+I'm [Dylan Young](https://dylanyoung.dev/), a Developer Advocate at Sitecore. I focus on the Engagement Cloud products, which includes CDP, Personalize, Send/Moosend and Analytics, among many other focuses (including XP).  But I have a ton of passions as well, including Cloud Development, Docker and Javascript Frameworks.  All of this while coming from a Microsoft world where I've had 10+ years in .Net and C# development.  But I'm learning new things and sharing my journey.
 
 I am located in the United States, just north of West Palm Beach, FL. When I'm not working (or playing with new tech, though it's hard to distinquish between these two sometimes), you can find me swimming or playing with my 2 year old boxer named Ember.  Although I also love to travel, although I haven't really gotten into this much since Covid 19, but I hope to get back out there at some point.
 
