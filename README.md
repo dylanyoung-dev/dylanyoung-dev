@@ -6,6 +6,8 @@ I am located in the United States, just north of West Palm Beach, FL. When I'm n
 
 ## 📝 Where I publish my content
 
+- [Dylan Resume](https://feather-sprout-c0e.notion.site/Dylan-Young-807aff1bbe5f4a4690ed754869fbbd3b) - My Professional Resume
+
 - [Coding with Dylan](https://www.youtube.com/DylanYoungDev) - #YouTubeCreator - YouTube Channel on mostly Sitecore, however I've started to venture off into industry content.
 
     ![](https://img.shields.io/youtube/channel/views/UC5krmrALirwZibfW9-c2JXw?style=social) 
